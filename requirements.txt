@@ -1,0 +1,7 @@
+pep8
+pillow
+pyflakes
+pylint
+requests
+wxpython
+cognitive_face
